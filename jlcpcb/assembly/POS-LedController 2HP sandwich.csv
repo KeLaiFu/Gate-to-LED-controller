@@ -1,0 +1,16 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,AudioJack2,3.5mm_tip_switch_thonkiconn,19.91,-94.79305,180.0,top
+J2,AudioJack2,3.5mm_tip_switch_thonkiconn,19.91,-63.274016,180.0,top
+J3,AudioJack2,3.5mm_tip_switch_thonkiconn,19.91,-31.754983,180.0,top
+J4,Conn_02x08_Odd_Even,PinHeader_2x08_P2.54mm_Vertical,3.725,-90.935,0.0,bottom
+J5,Conn_01x04_Female,PinHeader_1x04_P2.54mm_Vertical,5.0,-10.75,180.0,bottom
+R1,10K,R_1206_3216Metric,19.9,-76.79,0.0,bottom
+R2,10K,R_1206_3216Metric,19.91,-45.239145,0.0,bottom
+R3,10K,R_1206_3216Metric,19.91,-13.733363,0.0,bottom
+R4,22K,R_1206_3216Metric,2.54952,-55.854097,180.0,top
+R5,22K,R_1206_3216Metric,7.53952,-55.824097,0.0,top
+R6,22K,R_1206_3216Metric,7.16,-43.72,0.0,top
+RV1,100K,Potentiometer_Alpha_RD901F-40-00D_Single_Vertical,17.41,-79.411907,90.0,top
+RV2,100K,Potentiometer_Alpha_RD901F-40-00D_Single_Vertical,17.41,-47.887185,90.0,top
+RV3,100K,Potentiometer_Alpha_RD901F-40-00D_Single_Vertical,17.41,-16.362463,90.0,top
+U1,TL084,SOIC-14_3.9x8.7mm_P1.27mm,5.0,-49.709097,90.0,top
